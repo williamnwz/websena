@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\obj\Debug\WebSena.Util.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\obj\Debug\WebSena.Util.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\bin\Debug\WebSena.Util.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\bin\Debug\WebSena.Util.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\obj\Debug\WebSena.Util.csproj.CopyComplete
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\obj\Debug\WebSena.Util.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Util\obj\Debug\WebSena.Util.pdb

@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\APILoteria.Service.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\APILoteria.Service.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\obj\Debug\APILoteria.Service.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\obj\Debug\APILoteria.Service.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\obj\Debug\APILoteria.Service.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\obj\Debug\APILoteria.Service.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\WebSena.Util.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\WebSena.Util.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\obj\Debug\APILoteria.Service.csproj.CopyComplete
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\WebSena.Domain.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\APILoteria.Service\bin\Debug\WebSena.Domain.pdb

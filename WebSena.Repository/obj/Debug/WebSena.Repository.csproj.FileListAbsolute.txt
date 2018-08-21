@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\obj\Debug\WebSena.Repository.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\obj\Debug\WebSena.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\WebSena.Repository.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\WebSena.Repository.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\WebSena.Domain.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\WebSena.Domain.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\obj\Debug\WebSena.Repository.csproj.CopyComplete
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\obj\Debug\WebSena.Repository.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\obj\Debug\WebSena.Repository.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\WebSena.Repository.dll.config
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Repository\bin\Debug\EntityFramework.SqlServer.xml

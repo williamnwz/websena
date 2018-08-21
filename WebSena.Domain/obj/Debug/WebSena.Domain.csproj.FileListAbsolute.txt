@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Domain\bin\Debug\WebSena.Domain.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Domain\bin\Debug\WebSena.Domain.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Domain\obj\Debug\WebSena.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Domain\obj\Debug\WebSena.Domain.dll
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Domain\obj\Debug\WebSena.Domain.pdb
+C:\Users\Pichau\source\repos\WebSena.WebApi\WebSena.Domain\obj\Debug\WebSena.Domain.csprojAssemblyReference.cache
